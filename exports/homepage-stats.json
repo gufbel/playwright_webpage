@@ -1,0 +1,10 @@
+{
+  "should load homepage successfully": true,
+  "should display main navigation links": true,
+  "should display hero section content": true,
+  "should display app download buttons": true,
+  "should display exchange calculator section": true,
+  "should display security section": true,
+  "should display testimonials": true,
+  "should display footer content": true
+}

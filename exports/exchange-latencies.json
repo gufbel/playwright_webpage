@@ -1,0 +1,17 @@
+{
+  "KES": {
+    "visualLatency": 1846,
+    "recipientDisplay": "100 GBP converts to: 17058 KES",
+    "status": "PASS"
+  },
+  "UGX": {
+    "visualLatency": 1595,
+    "recipientDisplay": "100 GBP converts to: 460076 UGX",
+    "status": "PASS"
+  },
+  "TZS": {
+    "visualLatency": 1703,
+    "recipientDisplay": "100 GBP converts to: 330034 TZS",
+    "status": "PASS"
+  }
+}
